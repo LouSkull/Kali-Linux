@@ -1,0 +1,3 @@
+visible: 93
+terminal_size: 115,38
+show_about: true
