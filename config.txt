@@ -1,3 +1,5 @@
 visible: 93
 terminal_size: 115,38
 show_about: true
+auto_complete_commands: true
+auto_complete_path: true
